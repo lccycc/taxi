@@ -1,0 +1,7 @@
+xxx
+yyy
+note
+*.sw*
+obj/
+log/
+data/
